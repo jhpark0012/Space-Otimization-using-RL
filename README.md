@@ -28,9 +28,12 @@ We decided to simulate and solve this problem using reinforcement learning, redu
 
 
 ## File
-* Pentomino.py : DQN model to solve Pentomino puzzle
 
-* BPP.py : Baseline code 
+* Result : result files 
+  
+* model : model code to solve Pentomino puzzle
+ - Pentomino.py : DQN model 
+ -  BPP.py : Baseline  
 
 
 ## Method
