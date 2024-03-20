@@ -97,4 +97,4 @@ In conclusion, we can say that the application of our project can positively imp
 
 https://github.com/uvipen/Tetris-deep-Q-learning-pytorch.git
 
-Haoyuan Hu et al., Solving a New 3D Bin Packing Problem with Deep Reinforcement Learning Method (2017)
+Haoyuan Hu, Xiaodong Zhang, Xiaowei Yan, Longfei Wang, Yinghui Xu, *Solving a New 3D Bin Packing Problem with Deep Reinforcement Learning Method (arXiv, 2017)*
