@@ -28,10 +28,9 @@ We decided to simulate and solve this problem using reinforcement learning, redu
 
 
 ## File
-* EDA.ipynb : EDA file of each subject's data
-* Preprocessing.ipynb : Preprocessing file
-* sleep_df.pkl : Data from all subjects after preprocessing
-* Modeling.ipynb : Sleep classification modeling and results file by subject
+* Pentomino.py : DQN model to solve Pentomino puzzle
+
+* BPP.py : Baseline code 
 
 
 ## Method
@@ -90,3 +89,5 @@ Consumers can also expect faster and improved delivery services.
 
 In conclusion, we can say that the application of our project can positively impact the entire process in logistics.
 
+
+## Reference
