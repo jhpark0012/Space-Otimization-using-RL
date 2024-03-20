@@ -75,7 +75,8 @@ Here we could compare the number of pieces and if the number of pieces was the s
 
 The results show promise compared to existing BPP algorithms.
 
-
+<img src = "Result/result_with_baseline.png">
+<img src = "Result/result_graphic.png">
   
 ## Expected Outcomes
 
