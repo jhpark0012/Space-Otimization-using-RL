@@ -32,8 +32,8 @@ We decided to simulate and solve this problem using reinforcement learning, redu
 * Result : result files 
   
 * model : model code to solve Pentomino puzzle
- - Pentomino.py : DQN model 
- -  BPP.py : Baseline  
+  - Pentomino.py : DQN model 
+  -  BPP.py : Baseline  
 
 
 ## Method
