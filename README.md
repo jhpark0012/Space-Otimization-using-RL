@@ -22,7 +22,7 @@ We decided to simulate and solve this problem using reinforcement learning, redu
 
 
 ## Role 
-| 박재현 | 팀원 1 | 팀원 2 |
+| 박재현 | 장지형| 김동규 |
 |:---:|:---:|:---:|
 | implement baseline | impletement train code | implement environment code |
 
